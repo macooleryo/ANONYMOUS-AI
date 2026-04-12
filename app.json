@@ -1,8 +1,8 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/6zd0ru.jpg",
-  "keywords": ["KHAN-MD"],
+  "name": "𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒 𝐀𝐈",
+  "description":ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴢᴜᴋᴀ",
+  "logo": "https://files.catbox.moe/8yz3ex.jpg",
+  "keywords": ["ANONYMOUS AI"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -17,9 +17,9 @@
       "value": "."
     },
     "BOT_NAME": {
-      "description": "Your bot name (Default: KHAN-MD)",
+      "description": "Your bot name (Default: 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒 𝐀𝐈)",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒 𝐀𝐈"
     },
     "MODE": {
       "description": "Bot mode: public/private/inbox/groups (Default: private)",
@@ -27,14 +27,14 @@
       "value": "public"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number without + (Default: 923427582273)",
+      "description": "Owner WhatsApp number without + (Default: 263789544743)",
       "required": false,
-      "value": "923427582273"
+      "value": "263789544743"
     },
     "OWNER_NAME": {
-      "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
+      "description": "Owner name (Default: 𝐙𝐮𝐤𝐚)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "𝐙𝐮𝐤𝐚"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -42,9 +42,9 @@
       "value": "false"
     },
     "READ_MESSAGE": {
-      "description": "Auto read messages: true/false (Default: false)",
+      "description": "Auto read messages: true/false (Default: trueq)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_REACT": {
       "description": "Auto react to messages: true/false (Default: false)",
@@ -52,19 +52,19 @@
       "value": "false"
     },
     "OWNER_REACT": {
-      "description": "Owner auto react: true/false (Default: false)",
+      "description": "Owner auto react: true/false (Default: true)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
-      "description": "Always online mode: true/false (Default: false)",
+      "description": "Always online mode: true/false (Default: true)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_TYPING": {
-      "description": "Auto typing: true/false/inbox/group (Default: false)",
+      "description": "Auto typing: true/false/inbox/group (Default: true)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_RECORDING": {
       "description": "Auto recording: true/false/inbox/group (Default: false)",
@@ -149,7 +149,7 @@
     "BOT_MEDIA_URL": {
       "description": "Bot media URL",
       "required": false,
-      "value": "https://files.catbox.moe/6zd0ru.jpg"
+      "value": "https://files.catbox.moe/8yz3ex.jpg"
     },
     "AUTO_DOWNLOADER": {
       "description": "Auto downloader: true/false (Default: false)",
@@ -164,7 +164,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀɴᴏɴʏᴍᴏᴜs ᴀɪ*"
     }
   },
   "buildpacks": [
